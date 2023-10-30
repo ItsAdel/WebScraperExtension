@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 10px;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  color: gray;
+}
+
+button {
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+  text-align: left;
+}
